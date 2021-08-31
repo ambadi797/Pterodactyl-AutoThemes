@@ -124,7 +124,7 @@ bash <(curl -s https://raw.githubusercontent.com/Ferks-FK/Pterodactyl-AutoThemes
 }
 
 Argon() {
-bash <(curl -s https://raw.githubusercontent.com/Ferks-FK/Pterodactyl-AutoThemes/${SCRIPT_VERSION}/themes/version0.7.19/Argon/build.sh)
+bash <(curl -s https://raw.githubusercontent.com/Ferks-FK/Pterodactyl-AutoThemes/${SCRIPT_VERSION}/themes/version1.x/Argon/build.sh)
 }
 
 
@@ -141,7 +141,7 @@ while [ "$done" == false ]; do
     "Install Nothing But Graphite (Only 0.7.19)"
     "Install Red Ape (Only 0.7.19)"
     "Install Tango Twist (Only 0.7.19)"
-    "Install Argon (Only 0.7.19)"
+    "Install Argon (Only 1.x)"
     
     
     "Cancel Installation"
